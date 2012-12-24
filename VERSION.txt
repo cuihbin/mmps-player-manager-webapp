@@ -1,0 +1,3 @@
+mmps-player-manager-webapp-1.2.0-SNAPSHOT
+ + Initial commit
+
