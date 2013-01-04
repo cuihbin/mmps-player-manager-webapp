@@ -1,0 +1,1 @@
+Player management web application for player data view/edit, and provide client remote-service hosting service
