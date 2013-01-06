@@ -21,8 +21,8 @@
   </properties>
 
   <scm>
-    <connection>scm:git:git@github.com:cuihbin/mmps-player-manager.git</connection>
-    <developerConnection>scm:git:git@github.com:cuihbin/mmps-player-manager.git</developerConnection>
+    <connection>scm:git:git@github.com:cuihbin/mmps-player-manager-webapp.git</connection>
+    <developerConnection>scm:git:git@github.com:cuihbin/mmps-player-manager-webapp.git</developerConnection>
     <url>https://github.com/cuihbin</url>
   </scm>
 
