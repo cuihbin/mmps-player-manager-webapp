@@ -7,6 +7,7 @@
         <Menu name="MainMenu" title="mainMenu.title" page="/mainMenu" roles="ROLE_ADMIN,ROLE_USER"/>
         <Menu name="UserMenu" title="menu.user" description="User Menu" page="/editProfile" roles="ROLE_ADMIN,ROLE_USER"/>
         <Menu name="PlayerMenu" title="menu.viewPlayer" description="Player Menu" page="/players" roles="ROLE_ADMIN,ROLE_USER">
+            <Item name="ViewPlayer" title="menu.viewPlayer" page="/players"/>
             <Item name="ViewNormalPlayer" title="menu.viewNormalPlayer" page="/normalPlayers"/>
             <Item name="ViewFaultPlayer" title="menu.viewFaultPlayer" page="/faultPlayers"/>
         </Menu>
