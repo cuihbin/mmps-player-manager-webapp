@@ -14,7 +14,4 @@
     <!-- Add new DAOs here -->
 
     <!-- Add new Managers here -->
-  <bean id="playerManager" class="com.zzvc.mmps.service.impl.PlayerManagerImpl">
-    <constructor-arg ref="playerDao" />
-  </bean>
 </beans>
